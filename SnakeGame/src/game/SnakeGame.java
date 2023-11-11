@@ -1,5 +1,5 @@
 package game;
-
+//Skills Used -->
 //Swing, AWT, Graphics, Exceptional Handling, OOPS, Abstract classes, Interfaces
 import javax.swing.JFrame;
 
